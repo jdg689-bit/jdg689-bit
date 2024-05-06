@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front End Developer
 --------------------------
 
-I'm a junior front end developer that enjoys building personal projects with React. I started learning to code with HTML, CSS, and JavaScript, and I've been hooked ever since!
+I'm a junior fullstack developer that enjoys building personal projects with React. I started learning to code with HTML, CSS, and JavaScript, and I've been hooked ever since!
 
 *   🌍  I'm based in Brisbane
 *   ✉️  You can contact me at [jdgraaf689@gmail.com](mailto:jdgraaf689@gmail.com)
