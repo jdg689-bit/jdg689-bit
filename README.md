@@ -9,6 +9,7 @@ I'm a junior fullstack developer that enjoys building personal projects with Rea
 *   🌍  I'm based in Brisbane
 *   ✉️  You can contact me at [jdgraaf689@gmail.com](mailto:jdgraaf689@gmail.com)
 *   🚀  I'm currently working on [a car rental website](http://jdg689-bit.github.io/car-rental-deploy/)
+*   🚀  I'm currently working on [a stock trading platform](https://jdg689-bit.github.io/trading-app/)
 *   🧠  I'm learning Node.js
 
 ### Skills 
