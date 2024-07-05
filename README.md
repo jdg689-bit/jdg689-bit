@@ -10,6 +10,7 @@ I'm a junior fullstack developer that enjoys building personal projects with Rea
 *   ✉️  You can contact me at [jdgraaf689@gmail.com](mailto:jdgraaf689@gmail.com)
 *   🚀  I'm currently working on [a car rental website](https://jdg689-bit.github.io/Car-Rental-Website/)
 *   🚀  I'm currently working on [a stock trading platform](https://jdg689-bit.github.io/trading-app/)
+*   🚀  I'm currently working on [a real-time chat app](https://realtime-chat-app-red-ten.vercel.app/)
 *   🧠  I'm learning Node.js
 
 ### Skills 
