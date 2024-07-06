@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jacob de Graaf
 ======================================================================================================================================
 
-Junior Full Stack Developer
+Junior Full-stack Developer
 --------------------------
 
-I'm a junior fullstack developer that enjoys building personal projects with React. I started learning to code with HTML, CSS, and JavaScript, and I've been hooked ever since!
+I'm a junior full-stack developer who enjoys building personal projects using the MERN stack. I started learning to code with HTML, CSS, and JavaScript, and I've been hooked ever since!
 
 *   🌍  I'm based in Brisbane
 *   ✉️  You can contact me at [jdgraaf689@gmail.com](mailto:jdgraaf689@gmail.com)
