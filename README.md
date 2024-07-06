@@ -9,7 +9,8 @@ I'm a junior full-stack developer who enjoys building personal projects using th
 *   🌍  I'm based in Brisbane
 *   ✉️  You can contact me at [jdgraaf689@gmail.com](mailto:jdgraaf689@gmail.com)
 *   🏅  I've recently worked on [a car rental website](https://jdg689-bit.github.io/Car-Rental-Website/) and a [a stock trading platform](https://jdg689-bit.github.io/trading-app/)
-*   🚀  I'm currently working on [a real-time chat app](https://realtime-chat-76wxxowgj-jdg689-bits-projects.vercel.app/login)
+*   🚀  I'm currently working on [a real-time chat app](https://realtime-chat-app-red-ten.vercel.app
+)
 *   🧠  I'm learning the MERN stack
 
 ### Skills 
